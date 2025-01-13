@@ -22,9 +22,9 @@ repository               : "akama-eo.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Emmanuel Akama"
-  pronouns         : "(He/Him)"  
-  bio              : "With over 2 year experience in data analysis, I have a proven track record of turning raw data into meaningful information. My analytical skills, combined with a deep understanding of various industries, allow me to provide valuable insights that drives business success"
+  name             : "Emmanuel Akama (Data Analyst"
+  pronouns         : # For example, "(He/Him)"  
+  bio              : # For example, "With over 2 year experience in data analysis, I have a proven track record of turning raw data into meaningful information. My analytical skills, combined with a deep understanding of various industries, allow me to provide valuable insights that drives business success"
   location         : "Ellesmere Port, United Kingdom"
   employer         : "TechDrive Consulting Limited"
   uri              : https://akama-eo.github.io
