@@ -21,7 +21,7 @@ repository               : "akama-eo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "profile_photo.png"
   name             : "Emmanuel Akama (He/Him)"
   pronouns         : "Data Analyst | BI Developer" 
   bio              : ""
