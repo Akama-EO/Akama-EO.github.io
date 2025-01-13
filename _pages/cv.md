@@ -13,7 +13,9 @@ redirect_from:
 Data Analyst and Business Intelligence (BI) Developer with 2 years of experience in designing and implementing data-driven solutions to enhance business performance. Proficient in SQL, data modelling, and data visualization tools such as Microsoft Excel, Power BI and Tableau. Demonstrated ability to analyse complex datasets, develop interactive dashboards, and deliver actionable insights that drive strategic decision-making. Skilled in collaborating with cross-functional teams to identify business requirements and translate them into effective BI solutions.
 
 ### Education
-* M.Sc in Big Data Technologies, Glasgow Caledonian University, London – United Kingdom, 2024
+* M.Sc in Big Data Technologies (2023 -2024)
+  Glasgow Caledonian University, London – United Kingdom
+  
 * M.Sc. in Business Administration (Distance Learning), University of South Wales, Cardiff	– United Kingdom, 2020
 * B.Sc. in Computer Science, University of Benin, Benin City – Nigeria, 2005
 
