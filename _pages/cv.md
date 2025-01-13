@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "My Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## Professional Summary
+### Professional Summary
 Data Analyst and Business Intelligence (BI) Developer with 2 years of experience in designing and implementing data-driven solutions to enhance business performance. Proficient in SQL, data modelling, and data visualization tools such as Microsoft Excel, Power BI and Tableau. Demonstrated ability to analyse complex datasets, develop interactive dashboards, and deliver actionable insights that drive strategic decision-making. Skilled in collaborating with cross-functional teams to identify business requirements and translate them into effective BI solutions.
 
-## Education
+### Education
 * M.Sc in Big Data Technologies, Glasgow Caledonian University, London – United Kingdom, 2024
 * M.Sc. in Business Administration (Distance Learning), University of South Wales, Cardiff	– United Kingdom, 2020
 * B.Sc. in Computer Science, University of Benin, Benin City – Nigeria, 2005
 
-## Work experience
+### Work experience
 * Data Analyst: TechDrive Consulting Limited, London – United Kingdom (2023 - Present)                                                                                    
 •	Extract, transform and load structured and unstructured data from Microsoft Excel, SQL Server and Azure cloud using Power Query editor for data modelling and visualization to answer business questions.
 •	Prepare insightful dashboards and reports from complex datasets to make informed decisions and recommendations to management teams using DAX functions and visualization charts in Power BI.
