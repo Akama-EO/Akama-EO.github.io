@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/data-with-danny-logo.png' alt="Portfolio-1" width="450" height="450">"
+title: "Portfolio 1"
+excerpt: "Danny Ma's 8-week SQL challange<br/><img src='/images/data-with-danny-logo.png'>"
 collection: portfolio
 ---
 
