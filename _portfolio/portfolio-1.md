@@ -1,18 +1,18 @@
 ---
-title: "Portfolio 1"
+title: "Project 01 - SQL"
 excerpt: "Danny Ma's 8-week SQL challange<br/><img src='/images/data-with-danny-logo.png'>"
 collection: portfolio
 ---
 
-This portfolio project contains solutions to the 8 SQL challenges of the **[Danny Ma's 8-week SQL challenge](https://8weeksqlchallenge.com)**.
+This portfolio project contains solutions to tasks in **[Danny's 8-week SQL challenge](https://8weeksqlchallenge.com)**.
 
 Each case-study folder contains the following files
 - A readme file explaining the problem statement with link to the solution file
 - SQL file to create the schema, tables and other data tasks
 - MD files which contains SQL queries answering the respective challenge questions
 
-**Note**: 
-- Solutions are coded in **Microsoft SQL Server, MySQL and Postgres SQL**
+## Tools used 
+Microsoft SQL Server, MySQL and Postgres SQL Server
 
 ## Challenge case studies
 * 🍜[Case Study #1 - Danny's Diner](https://github.com/manaswikamila05/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%201%20-%20Danny's%20Diner)
