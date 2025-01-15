@@ -21,7 +21,7 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
 
 ### Work Experience
 
-**Data Analyst** – TechDrive Consulting Limited, London – United Kingdom (2023 - Present)                                                                                    
+01 - *Data Analyst*, TechDrive Consulting Limited, London – United Kingdom (2023 - Present)                                                                                    
   * Extract, transform and load structured and unstructured data from Microsoft Excel, SQL Server and Azure cloud using Power Query editor for data modelling and visualization to answer business questions.
   * Prepare insightful dashboards and reports from complex datasets to make informed decisions and recommendations to management teams using DAX functions and visualization charts in Power BI.
   * Develop integrated ETL pipelines of structured and unstructured data into Power Query, cleaned and transform dataset using DAX functions.
@@ -36,7 +36,8 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   * Improved decision-making efficiency by 25% through clear, concise presentations of complex data, enabling stakeholders to swiftly adjust strategies in implementing the data migration. 
   * Implemented data security measures to protect sensitive information, ensuring compliance with industry regulations during the data migration.
 
-**Self-Services Solution Consultant (*iSuite*)** – NCR Corporation, Lagos - Nigeria (2012 - 2023)
+
+02 - *Self-Services Solution Consultant (iSuite)*, NCR Corporation, Lagos - Nigeria (2012 - 2023)
   * Engaged with clients to understand their needs, challenges, and objectives. 
   *	Provided expert advice on technical solutions that align with business goals.
   *	Analysed existing systems, processes, and technologies to identify areas for improvement.
@@ -49,12 +50,13 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   *	Conducted periodic risk assessment checks.
   *	Provided training on how to use the new technology.
 
-**Full Stack Software Developer** – Alliedsoft Limited, Lagos- Nigeria (2010 - 2011) 
+
+03 - *Full Stack Software Developer*, Alliedsoft Limited, Lagos- Nigeria (2010 - 2011) 
   * Developed software based on requirement specifications.
   * Maintained software documentation.
   * Provided technical assistance to the support team.
   
-### Skills
+### Skills & Tools
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
