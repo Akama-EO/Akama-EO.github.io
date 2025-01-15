@@ -10,16 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ### Professional Summary
+
 Data Analyst and Business Intelligence (BI) Developer with 2 years of experience in designing and implementing data-driven solutions to enhance business performance. Proficient in SQL, data modelling, and data visualization tools such as Microsoft Excel, Power BI and Tableau. Demonstrated ability to analyse complex datasets, develop interactive dashboards, and deliver actionable insights that drive strategic decision-making. Skilled in collaborating with cross-functional teams to identify business requirements and translate them into effective BI solutions.
 
 ### Education
-* M.Sc in Big Data Technologies (2023 -2024)
-#### Glasgow Caledonian University, London – United Kingdom
-  
+
+* M.Sc in Big Data Technologies (2023 -2024) Glasgow Caledonian University, London – United Kingdom 
 * M.Sc. in Business Administration (Distance Learning), University of South Wales, Cardiff	– United Kingdom, 2020
 * B.Sc. in Computer Science, University of Benin, Benin City – Nigeria, 2005
 
 ### Work Experience
+
 **Data Analyst** – TechDrive Consulting Limited, London – United Kingdom (2023 - Present)                                                                                    
   * Extract, transform and load structured and unstructured data from Microsoft Excel, SQL Server and Azure cloud using Power Query editor for data modelling and visualization to answer business questions.
   * Prepare insightful dashboards and reports from complex datasets to make informed decisions and recommendations to management teams using DAX functions and visualization charts in Power BI.
@@ -35,7 +36,7 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   * Improved decision-making efficiency by 25% through clear, concise presentations of complex data, enabling stakeholders to swiftly adjust strategies in implementing the data migration. 
   * Implemented data security measures to protect sensitive information, ensuring compliance with industry regulations during the data migration.
 
-**Self-Services Solution Consultant (iSuite)** – NCR Corporation, Lagos - Nigeria (2012 - 2023)
+**Self-Services Solution Consultant (*iSuite*)** – NCR Corporation, Lagos - Nigeria (2012 - 2023)
   * Engaged with clients to understand their needs, challenges, and objectives. 
   *	Provided expert advice on technical solutions that align with business goals.
   *	Analysed existing systems, processes, and technologies to identify areas for improvement.
