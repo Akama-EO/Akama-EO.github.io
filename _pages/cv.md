@@ -53,8 +53,7 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   * Maintained software documentation.
   * Provided technical assistance to the support team.
   
-Skills
-======
+### Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -62,8 +61,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+### Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
