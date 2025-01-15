@@ -1,6 +1,6 @@
 ---
 title: "Project 01 - SQL"
-excerpt: "Danny Ma's 8-week SQL challange<br/><img src='/images/data-with-danny-logo.png'>"
+excerpt: "Danny Ma's 8-week SQL challange<br/>"
 collection: portfolio
 ---
 
