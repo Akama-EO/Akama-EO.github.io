@@ -57,11 +57,11 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   
 ### Education
 
-* M.Sc in Big Data Technologies (2023 -2024) Glasgow Caledonian University, London – United Kingdom 
+* M.Sc. in Big Data Technologies, Glasgow Caledonian University, London – United Kingdom, 2024 
 * M.Sc. in Business Administration (Distance Learning), University of South Wales, Cardiff	– United Kingdom, 2020
 * B.Sc. in Computer Science, University of Benin, Benin City – Nigeria, 2005
 
-### Publications
+### Publication
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
