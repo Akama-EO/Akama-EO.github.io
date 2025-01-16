@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "An Evaluation of Deep Learning Techniques for Chest X-Ray Abnormality Detection and Classification"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-09-03-An-Evaluation-of-Deep-Learning-Techniques-for-Chest-X-Ray-Abnormality-Detection-and-Classification
+excerpt: 'This paper is about the adoption of AI techniques for chest x-ray abnomality detection and classification.'
+date: 2024-09-03
+venue: 'Glasgow Caledonian University - Academic Thesis'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Chest X-ray (CXR) is one of the most used diagnostic tools in medical practice, providing crucial insights into the condition of a patient's lungs and thoracic cavity. Despite their widespread use, the interpretation of CXR images remains a challenging task, often requiring significant expertise and experience. 
+Traditional methods of interpreting CXR images by radiologists, while essential, have proven to be time-consuming and prone to human error, particularly under the increased strain and workload brought about by the COVID-19 pandemic era. In response to these challenges, this dissertation investigates the application of deep learning techniques for the development of automated systems to assist radiologists with the detection and classification of abnormalities on CXR images with the aim to enhance diagnostic accuracy and efficiency.
