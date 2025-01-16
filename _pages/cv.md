@@ -13,12 +13,6 @@ redirect_from:
 
 Data Analyst and Business Intelligence (BI) Developer with 2 years of experience in designing and implementing data-driven solutions to enhance business performance. Proficient in SQL, data modelling, and data visualization tools such as Microsoft Excel, Power BI and Tableau. Demonstrated ability to analyse complex datasets, develop interactive dashboards, and deliver actionable insights that drive strategic decision-making. Skilled in collaborating with cross-functional teams to identify business requirements and translate them into effective BI solutions.
 
-### Education
-
-* M.Sc in Big Data Technologies (2023 -2024) Glasgow Caledonian University, London – United Kingdom 
-* M.Sc. in Business Administration (Distance Learning), University of South Wales, Cardiff	– United Kingdom, 2020
-* B.Sc. in Computer Science, University of Benin, Benin City – Nigeria, 2005
-
 ### Work Experience
 
 01 - *Data Analyst*, TechDrive Consulting Limited, London – United Kingdom (2023 - Present)                                                                                    
@@ -36,7 +30,6 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   * Improved decision-making efficiency by 25% through clear, concise presentations of complex data, enabling stakeholders to swiftly adjust strategies in implementing the data migration. 
   * Implemented data security measures to protect sensitive information, ensuring compliance with industry regulations during the data migration.
 
-
 02 - *Self-Services Solution Consultant (iSuite)*, NCR Corporation, Lagos - Nigeria (2012 - 2023)
   * Engaged with clients to understand their needs, challenges, and objectives. 
   *	Provided expert advice on technical solutions that align with business goals.
@@ -50,19 +43,23 @@ Data Analyst and Business Intelligence (BI) Developer with 2 years of experience
   *	Conducted periodic risk assessment checks.
   *	Provided training on how to use the new technology.
 
-
 03 - *Full Stack Software Developer*, Alliedsoft Limited, Lagos- Nigeria (2010 - 2011) 
   * Developed software based on requirement specifications.
   * Maintained software documentation.
   * Provided technical assistance to the support team.
   
 ### Skills & Tools
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Database Server Administration & Management: Microsoft SQL Server, MySQL and Postgre SQL Server
+* Data Analysis & Engineering: Data Cleaning, Transformation & Modelling, Business Intelligence Reports, Dashboard & Visualizations, Statistics, Predictive Analytics
+* Business Intelligence: Microsoft Excel, Power BI Reports, Dashboard & Visualizations
+* Python & R Packages: NumPy, Pandas, PyCaret, Scikit-Learn, Matplotlib, Seaborn, DplR, Tidyverse
+* Process Management: Project Management, Process Improvement, Requirement Engineering, Gap Analysis, Root Cause Analysis                                               
+  
+### Education
+
+* M.Sc in Big Data Technologies (2023 -2024) Glasgow Caledonian University, London – United Kingdom 
+* M.Sc. in Business Administration (Distance Learning), University of South Wales, Cardiff	– United Kingdom, 2020
+* B.Sc. in Computer Science, University of Benin, Benin City – Nigeria, 2005
 
 ### Publications
   <ul>{% for post in site.publications reversed %}
