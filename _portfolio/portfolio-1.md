@@ -1,10 +1,11 @@
 ---
-title: "Project 01 - SQL"
-excerpt: "Danny Ma's 8-week SQL challange<br/>"
+title: "01 - SQL Portfolio"
+excerpt: "This section contain projects completed with popular SQL tools, such as MySQL, PostgreSQL and Microsoft SQL Server<br/><img src='/images/portfolio-01.jpeg'>"
 collection: portfolio
 ---
 
-This portfolio project contains solutions to tasks in **[Danny's 8-week SQL challenge](https://8weeksqlchallenge.com)**.
+# Project 01 - Danny's 8-week SQL challenge
+This project contains solutions to tasks in **[Danny's 8-week SQL challenge](https://8weeksqlchallenge.com)**.
 
 Each case-study folder contains the following files
 - A readme file explaining the problem statement with link to the solution file
