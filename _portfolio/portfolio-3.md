@@ -1,6 +1,6 @@
 ---
 title: "Python & R Portfolio"
-excerpt: "This section is dedicated to Python and R projects<br/><img src='/images/portfolio-03.jpeg'><br/>"
+excerpt: "This section is dedicated to Python and R projects<br/><img src='/images/portfolio-03.png'><br/>"
 collection: portfolio
 ---
 
