@@ -1,5 +1,4 @@
- 
----
+ ---
 permalink: /
 title: "Hello There! I'm Emmanuel Akama..."
 author_profile: true
