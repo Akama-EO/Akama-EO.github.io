@@ -1,6 +1,6 @@
 ---
 title: "Big-data Portfolio"
-excerpt: "This section is dedicated to more complex big-data engineering projects<br/><img src='/images/portfolio-04.png'><br/>"
+excerpt: "This section is dedicated to more complex big-data engineering projects<br/><img src='/images/portfolio-03.png'><br/>"
 collection: portfolio
 ---
 
