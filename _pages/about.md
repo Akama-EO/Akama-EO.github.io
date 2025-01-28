@@ -1,6 +1,6 @@
- ---
+---
 permalink: /
-title: "Hello There! I'm Emmanuel Akama..."
+title: <p align="center"><img src="https://github.com/Akama-EO/Akama-EO.github.io/blob/master/images/profile_photo.png" alt="Image" width="450" height="450"><br/>"Hello There! I'm Emmanuel Akama..."
 author_profile: true
 redirect_from: 
   - /about/
