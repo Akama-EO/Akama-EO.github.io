@@ -3,7 +3,7 @@ title: "An Evaluation of Deep Learning Techniques for Chest X-Ray Abnormality De
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-03-An-Evaluation-of-Deep-Learning-Techniques-for-Chest-X-Ray-Abnormality-Detection-and-Classification
-excerpt: 'This paper is about the adoption of AI techniques for chest x-ray abnomality detection and classification.'
+excerpt: "The study employs the benchmark dataset used for the RSNA Pneumonia Detection Challenge to train and validate region-based proposal network models, specifically the Mask R-CNN model. Various data preprocessing and augmentation techniques are used to ensure robust and generalized model performance. The results from this study highlight the strength of region-based convolution neural networks, specifically the Mask R-CNN model, providing valuable insights into their practical implementation in medical image analysis."
 date: 2024-09-03
 venue: 'Glasgow Caledonian University - Academic Thesis'
 slidesurl: 'http://Akama-EO.github.io/files/gcu-thesis-slides.pdf'
