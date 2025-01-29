@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Welcome](images/profile_photo.png){: align-center width="600" height="250">}
+![Welcome](images/profile_photo.png){: .align-center width="600" height="250"}
 
 I'm a Data Analyst, Business Intelligence, and Big Data Engineer with the last two years spent between these roles. 
 
