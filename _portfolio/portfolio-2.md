@@ -4,11 +4,20 @@ excerpt: "This section contain BI related projects completed with Microsoft Exce
 collection: portfolio
 ---
 
-## Project 01 - <Add project title here>
+# Project 01 -  Sales Performance Analysis (Home Luxury Kitchen)
+This project highlights the power and flexibility of Microsoft Excel functions and formulas for interactive dashboard design without power tools like Power Query and Power Pivot.
 
+Click [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales) to view solution to the project
+
+## Project 02 - Sales Performance Analysis (Adventure Works)
+This project highlights the power and flexibility of Advance Excel for multi-page dashboard design using functions and formulas with power tools like Power Query and Power Pivot. It also showcases the programming of an animated dashboard filter with VBA and Macros.
+
+Thes project uses data from Microsoft Adventure Works sample database. You can view/dowmload the dataset from [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales_02/Databases/AdventureWorks.xlsx).
 
 ### Tools used 
+Microsoft Excel (with VBA and Macros)
 
+Click [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales_02) to view solution to the project
 
 ### Support
-Please, if you like any of these projects, do give it a ⭐️!
+Please, if you like this project, give a ⭐️!
