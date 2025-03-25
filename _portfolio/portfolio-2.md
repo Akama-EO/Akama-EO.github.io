@@ -14,10 +14,10 @@ This project highlights the power and flexibility of Advance Excel for multi-pag
 
 Thes project uses data from Microsoft Adventure Works sample database. You can view/dowmload the dataset from [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales_02/Databases/AdventureWorks.xlsx).
 
+Click [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales_02) to view solution to the project
+
 ### Tools used 
 Microsoft Excel (with VBA and Macros)
-
-Click [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales_02) to view solution to the project
 
 ### Support
 Please, if you like this project, give a ⭐️!
