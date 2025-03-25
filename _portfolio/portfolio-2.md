@@ -4,7 +4,7 @@ excerpt: "This section contain BI related projects completed with Microsoft Exce
 collection: portfolio
 ---
 
-# Project 01 -  Sales Performance Analysis (Home Luxury Kitchen)
+## Project 01 -  Sales Performance Analysis (Home Luxury Kitchen)
 This project highlights the power and flexibility of Microsoft Excel functions and formulas for interactive dashboard design without power tools like Power Query and Power Pivot.
 
 Click [here](https://github.com/Akama-EO/bi-portfolio-projects-/blob/main/Sales) to view solution to the project
